@@ -1,0 +1,9 @@
+data/*.csv
+data/*.zip
+dashboard/data/
+dashboard/kpi_check.md
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.DS_Store
